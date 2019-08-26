@@ -1,0 +1,2 @@
+# hopeful
+Software Carpentry workshop
